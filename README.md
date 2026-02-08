@@ -1,2 +1,2 @@
-# projek-kelompok-dasprog
+# projek-kelompok-algoritmastrukdat
 Repository dari kelompok 17 dengan tema ....
