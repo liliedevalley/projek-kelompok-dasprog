@@ -1,2 +1,2 @@
 # projek-kelompok-dasprog
-Repository dari kelompok 17 dengan tema ....
+Repository dari kelompok 17 dengan tema Gallery view
